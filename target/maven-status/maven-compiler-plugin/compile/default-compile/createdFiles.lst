@@ -1,0 +1,11 @@
+com\example\ProjetodeExtencao\config\JwtAuthenticationFilter.class
+com\example\ProjetodeExtencao\config\JwtTokenProvider.class
+com\example\ProjetodeExtencao\ProjetodeExtencaoApplication.class
+com\example\ProjetodeExtencao\repositories\UserRepository.class
+com\example\ProjetodeExtencao\services\AuthorizationService.class
+com\example\ProjetodeExtencao\dto\LoginRequest.class
+com\example\ProjetodeExtencao\entities\user\UserRole.class
+com\example\ProjetodeExtencao\config\SecurityConfigurations.class
+com\example\ProjetodeExtencao\controllers\AuthController.class
+com\example\ProjetodeExtencao\dto\RegisterRequest.class
+com\example\ProjetodeExtencao\entities\user\User.class

@@ -1,0 +1,11 @@
+C:\Projetos-Java\ProjetodeExtencao\src\main\java\com\example\ProjetodeExtencao\config\JwtAuthenticationFilter.java
+C:\Projetos-Java\ProjetodeExtencao\src\main\java\com\example\ProjetodeExtencao\config\JwtTokenProvider.java
+C:\Projetos-Java\ProjetodeExtencao\src\main\java\com\example\ProjetodeExtencao\config\SecurityConfigurations.java
+C:\Projetos-Java\ProjetodeExtencao\src\main\java\com\example\ProjetodeExtencao\controllers\AuthController.java
+C:\Projetos-Java\ProjetodeExtencao\src\main\java\com\example\ProjetodeExtencao\dto\LoginRequest.java
+C:\Projetos-Java\ProjetodeExtencao\src\main\java\com\example\ProjetodeExtencao\dto\RegisterRequest.java
+C:\Projetos-Java\ProjetodeExtencao\src\main\java\com\example\ProjetodeExtencao\entities\user\User.java
+C:\Projetos-Java\ProjetodeExtencao\src\main\java\com\example\ProjetodeExtencao\entities\user\UserRole.java
+C:\Projetos-Java\ProjetodeExtencao\src\main\java\com\example\ProjetodeExtencao\ProjetodeExtencaoApplication.java
+C:\Projetos-Java\ProjetodeExtencao\src\main\java\com\example\ProjetodeExtencao\repositories\UserRepository.java
+C:\Projetos-Java\ProjetodeExtencao\src\main\java\com\example\ProjetodeExtencao\services\AuthorizationService.java
